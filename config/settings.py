@@ -26,7 +26,8 @@ SECRET_KEY = '+va5y^c@y**9fs3u4_4k38d7e)xmqx(%z@u@=c_00h8hy91uf4'
 DEBUG = True
 
 
-ALLOWED_HOST = [".herokuapp.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ['.herokuapp.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
